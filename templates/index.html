@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 
     <style>
-        /* ✅ Background image */
+        /*  Background image */
         body {
             background-image: url("{{ url_for('static', filename='back.png') }}");
             background-size: cover;
@@ -30,7 +30,7 @@
             border-radius: 25px;
         }
 
-        /* ✅ Headings (SympCure + Results) */
+        /*  Headings (SympCure + Results) */
         h1 {
             color: white;
             text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
@@ -52,7 +52,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <div class="logo">
-                <img class="myimg" src="{{ url_for('static', filename='img.jpg') }}" alt="">
+                <img class="myimg" src="{{ url_for('static', filename='img.JPG') }}" alt="">
             </div>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -194,12 +194,12 @@
         </div></div>
     </div>
 
-    <!-- ✅ Bootstrap JS + Popper -->
+    <!-- Bootstrap JS + Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
             crossorigin="anonymous"></script>
 
-    <!-- ✅ Ensure modals initialize correctly -->
+    <!--  Ensure modals initialize correctly -->
     <script>
     document.addEventListener("DOMContentLoaded", function () {
         const modalTriggers = document.querySelectorAll("[data-bs-toggle='modal']");
