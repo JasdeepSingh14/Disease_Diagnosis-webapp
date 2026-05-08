@@ -25,7 +25,7 @@ The project demonstrates the practical implementation of Artificial Intelligence
 
 ---
 
-# Scope of the Project
+# 🎯 Scope of the Project
 
 The scope of the project covers multiple areas of Artificial Intelligence and software development. It is designed to provide an intelligent and accessible healthcare assistance platform.
 
