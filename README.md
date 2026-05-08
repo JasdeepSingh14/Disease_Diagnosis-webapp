@@ -1,6 +1,12 @@
-# SympCure_Project
+#                                                          SympCure_Project
 
-Scope of the Project
+# Introduction
+SympCure is an AI-driven medicine recommendation system designed to suggest appropriate medicines based on user-entered symptoms. Using machine learning algorithms and a symptom-disease-medicine dataset, it predicts the most probable disease and provides relevant medication recommendations.
+The system also offers additional details such as disease description, precautions, and recommended treatments.
+The SympCure system allows users to input symptoms and predicts the most probable disease using an AI model. Based on the prediction, it recommends suitable medicines, provides disease descriptions, and lists necessary precautions. The system validates user inputs, ensures accurate data processing, and displays results through a clean, user-friendly interface. It also allows administrators to update the dataset and retrain the model when required. Users can download their prediction reports, and all activities are logged for analysis. Proper error handling, symptom suggestions, and a disclaimer are also included to ensure reliability and safety.
+
+
+# Scope of the Project
 
 The project covers multiple aspects of AI and software development, ranging from natural language processing to frontend design. 
 Its scope includes:
@@ -11,7 +17,3 @@ Its scope includes:
 •	The system maintains or accesses a structured medical dataset that links symptoms → diseases → medicines. 
 •	It is designed to be accessible to users anytime, without the need for physical consultation.
 
-# Introduction
-SympCure is an AI-driven medicine recommendation system designed to suggest appropriate medicines based on user-entered symptoms. Using machine learning algorithms and a symptom-disease-medicine dataset, it predicts the most probable disease and provides relevant medication recommendations.
-The system also offers additional details such as disease description, precautions, and recommended treatments.
-The SympCure system allows users to input symptoms and predicts the most probable disease using an AI model. Based on the prediction, it recommends suitable medicines, provides disease descriptions, and lists necessary precautions. The system validates user inputs, ensures accurate data processing, and displays results through a clean, user-friendly interface. It also allows administrators to update the dataset and retrain the model when required. Users can download their prediction reports, and all activities are logged for analysis. Proper error handling, symptom suggestions, and a disclaimer are also included to ensure reliability and safety.
