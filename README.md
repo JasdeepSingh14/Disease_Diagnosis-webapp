@@ -92,17 +92,79 @@ The system aims to improve healthcare accessibility by providing quick prelimina
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](static/images/home.png)
+![Home Page](static/images/home.PNG)
 
 ### Prediction Result
-![Prediction Result](static/images/result.png)
+![Prediction Result](static/images/result.PNG)
 
 ---
 
+# 📂 Project Structure
 
+```bash
+SympCure/
+│
+├── static/               # CSS, images, JavaScript files
+├── templates/            # HTML templates for Flask
+├── datasets/             # Medical datasets used for training
+├── models/               # Trained machine learning models
+├── main.py               # Main Flask application
+├── requirements.txt      # Project dependencies
+└── README.md             # Project documentation
+```
 
+---
 
+# 🌐 Deployment
 
+The project is deployed using Render for cloud hosting and GitHub for version control and source code management.
+
+## Deployment Platform
+- Render
+
+## Version Control
+- GitHub
+
+---
+
+# 🔒 Disclaimer
+
+This system is designed for educational and preliminary guidance purposes only. It should not replace professional medical consultation, diagnosis, or treatment.
+
+Always consult a qualified healthcare professional for serious medical conditions.
+
+---
+
+# ⭐ Future Improvements
+
+- User authentication system
+- Doctor consultation integration
+- AI chatbot support
+- Improved disease prediction accuracy
+- Medical history tracking
+- Multi-language support
+- Voice-based symptom input
+- Cloud database integration
+
+---
+
+# 👨‍💻 Author
+
+## Jasdeep Singh
+
+B.Tech Student | AI & Web Development Enthusiast
+
+---
+
+# 📄 License
+
+This project is developed for educational and learning purposes.
+
+---
+
+# 🌟 Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
 
 
  
