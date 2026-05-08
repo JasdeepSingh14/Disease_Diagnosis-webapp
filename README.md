@@ -49,7 +49,7 @@ The system aims to improve healthcare accessibility by providing quick prelimina
 
 ## 🚀 Live Demo
 
-[Click Here to Visit SympCure](https://sympcure-x01z.onrender.com/)
+[Click_here_to_Visit_SYMPCURE](https://sympcure-x0lz.onrender.com)
 
 ---
 
